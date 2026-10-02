@@ -4,7 +4,7 @@
 
 ```mermaid
 flowchart TD
-    subgraph ACTORES ["ACTORES"]
+    subgraph ACTORES ["ACTORES"]s
         Cliente["Cliente"]
         Seller["Seller"]
         Admin["Administrador"]

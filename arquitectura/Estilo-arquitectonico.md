@@ -1,0 +1,1 @@
+![Diagrama de Estilo Arquitectónico](./imagenarquitectura.png)
